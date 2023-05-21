@@ -1,0 +1,45 @@
+
+.parent1{
+    position: relative;
+}
+
+.parent2{
+    top: 215px;;
+    left:5em;
+    position: absolute;
+
+}
+.ticket{
+    display: inline;
+}
+.name1{
+    width: 100px;
+    display: inline;
+
+}
+.name{
+    font-size: 20px;
+    margin-left: 25px;
+ 
+
+}
+.date{
+    
+    margin-left: 50px;
+ 
+
+}
+.date1{
+    
+    width: 100px;
+    display: inline;
+
+}
+.id{
+    margin-left: 96px;
+    width: 100px;
+}
+.time{
+    margin-left: 70px;
+    width: 100px;
+}

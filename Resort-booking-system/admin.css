@@ -1,0 +1,21 @@
+body{   
+    background-image: url("pattern.jpg");  
+    background-size: cover;
+    background-repeat: no-repeat;
+}  
+#frm{  
+    border: solid gray 1px;  
+    color: white;
+    font-weight: bolder;
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background-image: url("formpic.jpeg");  
+    padding: 50px;  
+}  
+#btn{  
+    color: #fff;  
+    background: #337ab7;  
+    padding: 7px;  
+    margin-left: 70%;  
+}  

@@ -1,0 +1,73 @@
+.abt{
+    background-image: url("pattern.jpg");
+     background-repeat: no-repeat;
+    background-size: cover;
+}
+.form {
+    border-color: blueviolet;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 2em;
+    width: fit-content;
+    position: relative;
+    left: 26.5%;
+    margin: 2% 9%;
+    background-image: url("formpic.jpeg");
+    box-shadow: 20px 20px 15px lightcoral;
+    background-repeat: no-repeat;
+     background-size: cover;
+     
+} 
+.lab{
+    font-weight: bolder;
+    color: white;
+    
+}
+.lab:hover{
+    color: orangered;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial;
+    font-size: 17px;
+  }
+  
+  #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
+  
+  .content {
+    position: relative;
+    background: rgba(0, 0, 0,0.5);  
+  }
+  /*Scroll bar*/
+ ::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+ 
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 50px coral; 
+    border-radius: 10px;
+  }
+   
+
+  ::-webkit-scrollbar-thumb {
+    background: lightcoral; 
+    border-radius: 4px;
+  }
+  
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: orangered;
+    border-radius: 10px; 
+  }
+  
